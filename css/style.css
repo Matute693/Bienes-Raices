@@ -27,6 +27,11 @@ img {
         margin: 0 auto;
     }
 }
+@media (max-width:480px) {
+    .icono-480-d-none {
+        display: none;
+    }
+}
 
 h1 {
     font-size: 3.8rem;

@@ -9,4 +9,4 @@ Espero que les guste y cualquier feedback es bienvenido.
 
 URL DEPLOY
 
-https://winmuebles.netlify.app/
+https://matute693.github.io/Bienes-Raices/
